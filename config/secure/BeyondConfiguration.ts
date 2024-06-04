@@ -7,8 +7,8 @@ export const Database = {
 export const BeyondConfiguration = {
   USER_AGENT:
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) beyond/1.0 (https://www.back.beyondfn.com/) Chrome/98.0.4758.102 Safari/537.36",
-  API_KEY: "d59979aa-c89d712b-70da6e18-33358916",
-  CLIENT_SECRET: "7kPdG3zR8AeSfWvY9cN5mQ2xH6tU4iL1",
+  API_KEY: "",
+  CLIENT_SECRET: "",
 
   RegisterChannelID: "",
 
