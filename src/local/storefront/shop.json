@@ -1,0 +1,407 @@
+{
+  "expiration": "2024-05-23T00:00:00.000Z",
+  "cacheExpire": "2024-05-23T00:00:00.000Z",
+  "catalogItems": {
+    "BRWeeklyStorefront": [
+      {
+        "offerId": "58601ad0bc7b8b90d2b35a33948811630e4ae2f34f47af4df5fdd8aeeb52aa92",
+        "item": "AthenaPickaxe:Pickaxe_ID_055_Stop",
+        "name": "Stop Axe",
+        "items": [],
+        "price": 800,
+        "rarity": "rare",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_055_Stop.DA_Featured_Pickaxe_ID_055_Stop",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_055_Stop.DAv2_Featured_DAv2_Pickaxe_ID_055_Stop",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_055_Stop.DAv2_Featured_DAv2_Pickaxe_ID_055_Stop"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_055_Stop.DA_Featured_Pickaxe_ID_055_Stop"
+          },
+          {
+            "key": "SectionId",
+            "value": "Featured"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Normal"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_055_Stop.DA_Featured_Pickaxe_ID_055_Stop",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_055_Stop.DAv2_Featured_DAv2_Pickaxe_ID_055_Stop",
+          "SectionId": "Featured",
+          "TileSize": "Normal"
+        },
+        "variants": [],
+        "categories": []
+      },
+      {
+        "offerId": "8686376043e592f082c41c33398786754211eead520802dcc13a9f7da094789f",
+        "item": "AthenaCharacter:CID_137_Athena_Commando_F_StreetBasketball",
+        "name": "Triple Threat",
+        "items": [],
+        "price": 1200,
+        "rarity": "rare",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_137_Athena_Commando_F_StreetBasketball.DA_Featured_CID_137_Athena_Commando_F_StreetBasketball",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_137_Athena_Commando_F_StreetBasketball.DAv2_Featured_DAv2_CID_137_Athena_Commando_F_StreetBasketball",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_137_Athena_Commando_F_StreetBasketball.DAv2_Featured_DAv2_CID_137_Athena_Commando_F_StreetBasketball"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Featured_CID_137_Athena_Commando_F_StreetBasketball.DA_Featured_CID_137_Athena_Commando_F_StreetBasketball"
+          },
+          {
+            "key": "SectionId",
+            "value": "Featured"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Normal"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_137_Athena_Commando_F_StreetBasketball.DA_Featured_CID_137_Athena_Commando_F_StreetBasketball",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_137_Athena_Commando_F_StreetBasketball.DAv2_Featured_DAv2_CID_137_Athena_Commando_F_StreetBasketball",
+          "SectionId": "Featured",
+          "TileSize": "Normal"
+        },
+        "variants": [],
+        "categories": []
+      },
+      {
+        "offerId": "ec1ab2c51ede08af1a9c4987a0a6065db6d8f6fa0edd297cea7c5d21477133be",
+        "item": "AthenaDance:EID_InfiniteDabRaisin",
+        "name": "Infinite Dab",
+        "items": [],
+        "price": 500,
+        "rarity": "rare",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_EID_InfiniteDabRaisin.DA_Featured_EID_InfiniteDabRaisin",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_EID_InfiniteDabRaisin.DAv2_Featured_DAv2_EID_InfiniteDabRaisin",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_EID_InfiniteDabRaisin.DAv2_Featured_DAv2_EID_InfiniteDabRaisin"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Featured_EID_InfiniteDabRaisin.DA_Featured_EID_InfiniteDabRaisin"
+          },
+          {
+            "key": "SectionId",
+            "value": "Featured"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Normal"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_EID_InfiniteDabRaisin.DA_Featured_EID_InfiniteDabRaisin",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_EID_InfiniteDabRaisin.DAv2_Featured_DAv2_EID_InfiniteDabRaisin",
+          "SectionId": "Featured",
+          "TileSize": "Normal"
+        },
+        "variants": [],
+        "categories": []
+      }
+    ],
+    "BRDailyStorefront": [
+      {
+        "offerId": "6d0312c974603458eb18afc3d08ecb5eeea78d41e7af45ff51d1d07495397ef4",
+        "item": "AthenaCharacter:CID_490_Athena_Commando_M_BlueBadass",
+        "name": "Bravo Leader",
+        "items": [
+          {
+            "item": "AthenaBackpack:BID_324_BlueBadass",
+            "name": "Tri-Pack",
+            "categories": [
+              "Waypoint"
+            ]
+          }
+        ],
+        "price": 1200,
+        "rarity": "rare",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_CID_490_Athena_Commando_M_BlueBadass.DA_Daily_CID_490_Athena_Commando_M_BlueBadass",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_490_Athena_Commando_M_BlueBadass.DAv2_Featured_DAv2_CID_490_Athena_Commando_M_BlueBadass",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_490_Athena_Commando_M_BlueBadass.DAv2_Featured_DAv2_CID_490_Athena_Commando_M_BlueBadass"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Daily_CID_490_Athena_Commando_M_BlueBadass.DA_Daily_CID_490_Athena_Commando_M_BlueBadass"
+          },
+          {
+            "key": "SectionId",
+            "value": "Daily"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Small"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_CID_490_Athena_Commando_M_BlueBadass.DA_Daily_CID_490_Athena_Commando_M_BlueBadass",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_490_Athena_Commando_M_BlueBadass.DAv2_Featured_DAv2_CID_490_Athena_Commando_M_BlueBadass",
+          "SectionId": "Daily",
+          "TileSize": "Small"
+        },
+        "variants": {
+          "channel": "Parts",
+          "active": "Stage1",
+          "owned": [
+            "Stage1",
+            "Stage2"
+          ]
+        },
+        "categories": [
+          "Waypoint"
+        ]
+      },
+      {
+        "offerId": "c200c0370b7dd916208cfc3d5c8adeb1f5739abb441eb4aa153cd6fd0e4672d8",
+        "item": "AthenaCharacter:CID_141_Athena_Commando_M_DarkEagle",
+        "name": "Omen",
+        "items": [
+          {
+            "item": "AthenaBackpack:BID_058_DarkEagle",
+            "name": "Battle Shroud",
+            "categories": [
+              "Overseer"
+            ]
+          }
+        ],
+        "price": 2000,
+        "rarity": "legendary",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_CID_141_Athena_Commando_M_DarkEagle.DA_Daily_CID_141_Athena_Commando_M_DarkEagle",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_141_Athena_Commando_M_DarkEagle.DAv2_Featured_DAv2_CID_141_Athena_Commando_M_DarkEagle",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_141_Athena_Commando_M_DarkEagle.DAv2_Featured_DAv2_CID_141_Athena_Commando_M_DarkEagle"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Daily_CID_141_Athena_Commando_M_DarkEagle.DA_Daily_CID_141_Athena_Commando_M_DarkEagle"
+          },
+          {
+            "key": "SectionId",
+            "value": "Daily"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Small"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_CID_141_Athena_Commando_M_DarkEagle.DA_Daily_CID_141_Athena_Commando_M_DarkEagle",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_141_Athena_Commando_M_DarkEagle.DAv2_Featured_DAv2_CID_141_Athena_Commando_M_DarkEagle",
+          "SectionId": "Daily",
+          "TileSize": "Small"
+        },
+        "variants": [],
+        "categories": [
+          "Overseer"
+        ]
+      },
+      {
+        "offerId": "34c3fb147e32bed99a3474e2cce2f4a3c84fa21a216c579e5c668bb38b242ee5",
+        "item": "AthenaCharacter:CID_323_Athena_Commando_M_Barbarian",
+        "name": "Jaeger",
+        "items": [
+          {
+            "item": "AthenaBackpack:BID_196_BarbarianMale",
+            "name": "Emblazoned Buckler",
+            "categories": [
+              "Primal Hunters"
+            ]
+          }
+        ],
+        "price": 1500,
+        "rarity": "epic",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_CID_323_Athena_Commando_M_Barbarian.DA_Daily_CID_323_Athena_Commando_M_Barbarian",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_323_Athena_Commando_M_Barbarian.DAv2_Featured_DAv2_CID_323_Athena_Commando_M_Barbarian",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_323_Athena_Commando_M_Barbarian.DAv2_Featured_DAv2_CID_323_Athena_Commando_M_Barbarian"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Daily_CID_323_Athena_Commando_M_Barbarian.DA_Daily_CID_323_Athena_Commando_M_Barbarian"
+          },
+          {
+            "key": "SectionId",
+            "value": "Daily"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Small"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_CID_323_Athena_Commando_M_Barbarian.DA_Daily_CID_323_Athena_Commando_M_Barbarian",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_CID_323_Athena_Commando_M_Barbarian.DAv2_Featured_DAv2_CID_323_Athena_Commando_M_Barbarian",
+          "SectionId": "Daily",
+          "TileSize": "Small"
+        },
+        "variants": [],
+        "categories": [
+          "Primal Hunters"
+        ]
+      },
+      {
+        "offerId": "9e95ed75af4ab471d4f1472480f97738b9c130c8e42b7d932d64152b5c5bafa9",
+        "item": "AthenaPickaxe:Pickaxe_ID_019_Heart",
+        "name": "Tat Axe",
+        "items": [],
+        "price": 800,
+        "rarity": "rare",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_Pickaxe_ID_019_Heart.DA_Daily_Pickaxe_ID_019_Heart",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_019_Heart.DAv2_Featured_DAv2_Pickaxe_ID_019_Heart",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_019_Heart.DAv2_Featured_DAv2_Pickaxe_ID_019_Heart"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Daily_Pickaxe_ID_019_Heart.DA_Daily_Pickaxe_ID_019_Heart"
+          },
+          {
+            "key": "SectionId",
+            "value": "Daily"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Small"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_Pickaxe_ID_019_Heart.DA_Daily_Pickaxe_ID_019_Heart",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_019_Heart.DAv2_Featured_DAv2_Pickaxe_ID_019_Heart",
+          "SectionId": "Daily",
+          "TileSize": "Small"
+        },
+        "variants": [],
+        "categories": []
+      },
+      {
+        "offerId": "b56dc6838842ee758dcb3b62b9ab7d28dee5a20b0753a3a5df6a899f2c3cd385",
+        "item": "AthenaDance:EID_Capoeira",
+        "name": "Capoeira",
+        "items": [],
+        "price": 500,
+        "rarity": "rare",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_EID_Capoeira.DA_Daily_EID_Capoeira",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_EID_Capoeira.DAv2_Featured_DAv2_EID_Capoeira",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_EID_Capoeira.DAv2_Featured_DAv2_EID_Capoeira"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Daily_EID_Capoeira.DA_Daily_EID_Capoeira"
+          },
+          {
+            "key": "SectionId",
+            "value": "Daily"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Small"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_EID_Capoeira.DA_Daily_EID_Capoeira",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_EID_Capoeira.DAv2_Featured_DAv2_EID_Capoeira",
+          "SectionId": "Daily",
+          "TileSize": "Small"
+        },
+        "variants": [],
+        "categories": []
+      },
+      {
+        "offerId": "b1affe0dce1c6d5290c0c94e5f37a9a97d7674dff99bcccd22df13206cc8f3b6",
+        "item": "AthenaPickaxe:Pickaxe_ID_124_Feathers",
+        "name": "Scrambler",
+        "items": [],
+        "price": 500,
+        "rarity": "uncommon",
+        "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_Pickaxe_ID_124_Feathers.DA_Daily_Pickaxe_ID_124_Feathers",
+        "newDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_124_Feathers.DAv2_Featured_DAv2_Pickaxe_ID_124_Feathers",
+        "metaInfo": [
+          {
+            "key": "NewDisplayAssetPath",
+            "value": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_124_Feathers.DAv2_Featured_DAv2_Pickaxe_ID_124_Feathers"
+          },
+          {
+            "key": "DisplayAssetPath",
+            "value": "/Game/Catalog/DisplayAssets/DA_Daily_Pickaxe_ID_124_Feathers.DA_Daily_Pickaxe_ID_124_Feathers"
+          },
+          {
+            "key": "SectionId",
+            "value": "Daily"
+          },
+          {
+            "key": "BannerOverride",
+            "value": ""
+          },
+          {
+            "key": "TileSize",
+            "value": "Small"
+          }
+        ],
+        "meta": {
+          "DisplayAssetPath": "/Game/Catalog/DisplayAssets/DA_Daily_Pickaxe_ID_124_Feathers.DA_Daily_Pickaxe_ID_124_Feathers",
+          "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DAv2_Pickaxe_ID_124_Feathers.DAv2_Featured_DAv2_Pickaxe_ID_124_Feathers",
+          "SectionId": "Daily",
+          "TileSize": "Small"
+        },
+        "variants": [],
+        "categories": []
+      }
+    ]
+  }
+}

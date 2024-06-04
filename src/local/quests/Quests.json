@@ -1,0 +1,1021 @@
+{
+  "ChallengeBundleSchedules": {
+    "Season12_Mission_Schedule": [
+      "MissionBundle_S12_Week_01",
+      "MissionBundle_S12_Week_02",
+      "MissionBundle_S12_Week_03",
+      "MissionBundle_S12_Week_04",
+      "MissionBundle_S12_Week_05",
+      "MissionBundle_S12_Week_06",
+      "MissionBundle_S12_Week_07",
+      "MissionBundle_S12_Week_08",
+      "MissionBundle_S12_Week_09",
+      "MissionBundle_S12_Week_10"
+    ],
+    "Season12_Feat_BundleSchedule": ["Season12_Feat_Bundle"],
+    "Season12_Schedule_Event_CoinCollect": [
+      "QuestBundle_Event_S12_CoinCollectXP_Week_01",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_02",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_03",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_04",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_05",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_06",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_07",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_08",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_09",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_10"
+    ],
+    "Season12_Donut_Schedule": [
+      "QuestBundle_S12_Donut_W1",
+      "QuestBundle_S12_Donut_W2",
+      "QuestBundle_S12_Donut_W3",
+      "QuestBundle_S12_Donut_W4",
+      "QuestBundle_S12_Donut_W5",
+      "QuestBundle_S12_Donut_W6",
+      "QuestBundle_S12_Donut_W7",
+      "QuestBundle_S12_Donut_W8",
+      "QuestBundle_S12_Donut_W9",
+      "QuestBundle_S12_Donut_W7_A_ToastForInGame",
+      "QuestBundle_S12_Donut_W7_Dummy"
+    ],
+
+    "Season12_ABChallenges_Schedule": [
+      "MissionBundle_S12_AB_AdventureGirl",
+      "MissionBundle_S12_AB_Meowscle",
+      "MissionBundle_S12_AB_Midas",
+      "MissionBundle_S12_AB_Skulldude",
+      "MissionBundle_S12_AB_TNTina"
+    ]
+  },
+  "ChallengeBundle": {
+    "Season12_Donut_Schedule": [
+      "QuestBundle_S12_Donut_W1",
+      "QuestBundle_S12_Donut_W2",
+      "QuestBundle_S12_Donut_W3",
+      "QuestBundle_S12_Donut_W4",
+      "QuestBundle_S12_Donut_W5",
+      "QuestBundle_S12_Donut_W6",
+      "QuestBundle_S12_Donut_W7",
+      "QuestBundle_S12_Donut_W8",
+      "QuestBundle_S12_Donut_W9",
+      "QuestBundle_S12_Donut_W7_Dummy",
+      "QuestBundle_S12_Donut_W7_A_ToastForInGame"
+    ],
+    "MissionBundle_S12_AB_AdventureGirl": [
+      "quest_AB_photographer_alter",
+      "quest_AB_photographer_ego"
+    ],
+    "MissionBundle_S12_AB_Meowscle": ["quest_ab_buffcat_alter", "quest_ab_buffcat_ego"],
+    "MissionBundle_S12_AB_Midas": ["quest_ab_midas_alter", "quest_ab_midas_ego"],
+    "MissionBundle_S12_AB_Skulldude": ["quest_AB_skulldude_alter", "quest_AB_skulldude_ego"],
+    "MissionBundle_S12_AB_TNTina": ["AB_tntina_alter", "AB_tntina_ego"],
+    "MissionBundle_S12_Week_01": [
+      "quest_s12_w1_q01",
+      "quest_s12_w1_q02",
+      "quest_s12_w1_q03",
+      "quest_s12_w1_q04",
+      "quest_s12_w1_q05",
+      "quest_s12_w1_q06",
+      "quest_s12_w1_q07",
+      "quest_s12_w1_q08",
+      "quest_s12_w1_q09",
+      "quest_s12_w1_q10"
+    ],
+    "MissionBundle_S12_Week_02": [
+      "quest_s12_w2_q01",
+      "quest_s12_w2_q02",
+      "quest_s12_w2_q03",
+      "quest_s12_w2_q04",
+      "quest_s12_w2_q05",
+      "quest_s12_w2_q06",
+      "quest_s12_w2_q07",
+      "quest_s12_w2_q08",
+      "quest_s12_w2_q09",
+      "quest_s12_w2_q10"
+    ],
+    "MissionBundle_S12_Week_03": [
+      "quest_s12_w3_q01",
+      "quest_s12_w3_q02",
+      "quest_s12_w3_q03",
+      "quest_s12_w3_q04",
+      "quest_s12_w3_q05",
+      "quest_s12_w3_q06",
+      "quest_s12_w3_q07",
+      "quest_s12_w3_q08",
+      "quest_s12_w3_q09",
+      "quest_s12_w3_q10"
+    ],
+    "MissionBundle_S12_Week_04": [
+      "quest_s12_w4_q01",
+      "quest_s12_w4_q02",
+      "quest_s12_w4_q03",
+      "quest_s12_w4_q04",
+      "quest_s12_w4_q05",
+      "quest_s12_w4_q06",
+      "quest_s12_w4_q07",
+      "quest_s12_w4_q08",
+      "quest_s12_w4_q09",
+      "quest_s12_w4_q10"
+    ],
+    "MissionBundle_S12_Week_05": [
+      "quest_s12_w5_q01",
+      "quest_s12_w5_q02",
+      "quest_s12_w5_q03",
+      "quest_s12_w5_q04",
+      "quest_s12_w5_q05",
+      "quest_s12_w5_q06",
+      "quest_s12_w5_q07",
+      "quest_s12_w5_q08",
+      "quest_s12_w5_q09",
+      "quest_s12_w5_q10"
+    ],
+    "MissionBundle_S12_Week_06": [
+      "quest_s12_w6_q01",
+      "quest_s12_w6_q02",
+      "quest_s12_w6_q03",
+      "quest_s12_w6_q04",
+      "quest_s12_w6_q05",
+      "quest_s12_w6_q06",
+      "quest_s12_w6_q07",
+      "quest_s12_w6_q08",
+      "quest_s12_w6_q09",
+      "quest_s12_w6_q10"
+    ],
+    "MissionBundle_S12_Week_07": [
+      "quest_s12_w7_q01",
+      "quest_s12_w7_q02",
+      "quest_s12_w7_q03",
+      "quest_s12_w7_q04_HarvestAfterLanding",
+      "quest_s12_w7_q05",
+      "quest_s12_w7_q06",
+      "quest_s12_w7_q07",
+      "quest_s12_w7_q08",
+      "quest_s12_w7_q09",
+      "quest_s12_w7_q10"
+    ],
+    "MissionBundle_S12_Week_08": [
+      "quest_s12_w8_q01",
+      "quest_s12_w8_q02",
+      "quest_s12_w8_q03",
+      "quest_s12_w8_q04",
+      "quest_s12_w8_q05",
+      "quest_s12_w8_q06",
+      "quest_s12_w8_q07",
+      "quest_s12_w8_q08",
+      "quest_s12_w8_q09",
+      "quest_s12_w8_q10"
+    ],
+    "MissionBundle_S12_Week_09": [
+      "quest_s12_w9_q01",
+      "quest_s12_w9_q02",
+      "quest_s12_w9_q03",
+      "quest_s12_w9_q04",
+      "quest_s12_w9_q05",
+      "quest_s12_w9_q06",
+      "quest_s12_w9_q07",
+      "quest_s12_w9_q08",
+      "quest_s12_w9_q09",
+      "quest_s12_w9_q10"
+    ],
+    "MissionBundle_S12_Week_10": [
+      "quest_s12_w10_q01",
+      "quest_s12_w10_q02",
+      "quest_s12_w10_q03",
+      "quest_s12_w10_q04",
+      "quest_s12_w10_q05",
+      "quest_s12_w10_q06",
+      "quest_s12_w10_q07",
+      "quest_s12_w10_q08",
+      "quest_s12_w10_q09",
+      "quest_s12_w10_q10"
+    ],
+    "QuestBundle_S12_Donut_W1": ["Quest_S12_Donut_W1_A"],
+    "QuestBundle_S12_Donut_W2": ["Quest_S12_Donut_W2_A"],
+    "QuestBundle_S12_Donut_W3": ["Quest_S12_Donut_W3_B"],
+    "QuestBundle_S12_Donut_W4": ["Quest_S12_Donut_W4_A"],
+    "QuestBundle_S12_Donut_W5": ["Quest_S12_Donut_W5_A"],
+    "QuestBundle_S12_Donut_W6": ["Quest_S12_Donut_W6_A"],
+    "QuestBundle_S12_Donut_W7": ["Quest_S12_Donut_W7_A"],
+    "QuestBundle_S12_Donut_W7_A_ToastForInGame": ["Quest_S12_Donut_W7_A_ToastForInGame"],
+    "QuestBundle_S12_Donut_W7_Dummy": ["Quest_S12_Donut_W7_Dummy"],
+    "QuestBundle_S12_Donut_W8": ["Quest_S12_Donut_W8_A"],
+    "QuestBundle_S12_Donut_W9": ["Quest_S12_Donut_W9_B"],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_01": [
+      "quest_s12_xpcoins_blue_w1",
+      "quest_s12_xpcoins_gold_w1",
+      "quest_s12_xpcoins_green_w1",
+      "quest_s12_xpcoins_purple_w1"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_02": [
+      "quest_s12_xpcoins_blue_w2",
+      "quest_s12_xpcoins_green_w2",
+      "quest_s12_xpcoins_purple_w2"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_03": [
+      "quest_s12_xpcoins_blue_w3",
+      "quest_s12_xpcoins_gold_w3",
+      "quest_s12_xpcoins_green_w3",
+      "quest_s12_xpcoins_purple_w3"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_04": [
+      "quest_s12_xpcoins_blue_w4",
+      "quest_s12_xpcoins_green_w4",
+      "quest_s12_xpcoins_purple_w4"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_05": [
+      "quest_s12_xpcoins_blue_w5",
+      "quest_s12_xpcoins_gold_w5",
+      "quest_s12_xpcoins_green_w5",
+      "quest_s12_xpcoins_purple_w5"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_06": [
+      "quest_s12_xpcoins_blue_w6",
+      "quest_s12_xpcoins_green_w6",
+      "quest_s12_xpcoins_purple_w6"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_07": [
+      "quest_s12_xpcoins_blue_w7",
+      "quest_s12_xpcoins_gold_w7",
+      "quest_s12_xpcoins_green_w7",
+      "quest_s12_xpcoins_purple_w7"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_08": [
+      "quest_s12_xpcoins_blue_w8",
+      "quest_s12_xpcoins_green_w8",
+      "quest_s12_xpcoins_purple_w8"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_09": [
+      "quest_s12_xpcoins_blue_w9",
+      "quest_s12_xpcoins_gold_w9",
+      "quest_s12_xpcoins_green_w9",
+      "quest_s12_xpcoins_purple_w9"
+    ],
+    "QuestBundle_Event_S12_CoinCollectXP_Week_10": [
+      "quest_s12_xpcoins_blue_w10",
+      "quest_s12_xpcoins_green_w10",
+      "quest_s12_xpcoins_purple_w10"
+    ],
+    "Season12_Feat_Bundle": [
+      "Feat_Season12_BandageInStorm",
+      "Feat_Season12_PetPet",
+      "Feat_Season12_WinDuos",
+      "Feat_Season12_WinSolos",
+      "Feat_Season12_WinSquads",
+      "Feat_Season12_HarvestWoodSingleMatch",
+      "Feat_Season12_HarvestStoneSingleMatch",
+      "Feat_Season12_HarvestMetalSingleMatch",
+      "Feat_Season12_UseMedkitAt1HP",
+      "Feat_Season12_KillAfterOpeningSupplyDrop",
+      "Feat_Season12_Lifeguard",
+      "Feat_Season12_DestroyHollyHedges",
+      "Feat_Season12_DestroyFishstickDecorations",
+      "Feat_Season12_EliminateOpponentsPowerPlant",
+      "Feat_Season12_GainShieldSlurpySwamp",
+      "Feat_Season12_CatchFishSunnyShores",
+      "Feat_Season12_LandSalty",
+      "Feat_Season12_WinSoloManyElims",
+      "Feat_Season12_EliminateTrapMountainMeadows",
+      "Feat_Season12_RevivedInFrenzyFarmBarn",
+      "Feat_Season12_EatFlooper",
+      "Feat_Season12_EatFlopper",
+      "Feat_Season12_EatManyFlopper",
+      "Feat_Season12_EliminateWaterSMG",
+      "Feat_Season12_WinSolos10",
+      "Feat_Season12_WinSolos100",
+      "Feat_Season12_WinDuos10",
+      "Feat_Season12_WinDuos100",
+      "Feat_Season12_WinSquads10",
+      "Feat_Season12_WinSquads100",
+      "Feat_Season12_WinTeamRumble",
+      "Feat_Season12_WinTeamRumble100",
+      "Feat_Season12_ReachLevel110",
+      "Feat_Season12_ReachLevel250",
+      "Feat_Season12_CompleteMission",
+      "Feat_Season12_CompleteAllMissions",
+      "Feat_Season12_CatchFishBucketNice",
+      "Feat_Season12_DeathBucketNice",
+      "Feat_Season12_EliminateBucketNice",
+      "Feat_Season12_EliminateRocketRiding",
+      "Feat_Season12_ScoreSoccerGoalPleasant",
+      "Feat_Season12_HideDumpster",
+      "Feat_Season12_EliminateHarvestingTool",
+      "Feat_Season12_EliminateAfterHarpoonPull",
+      "Feat_Season12_EliminateYeetFallDamage",
+      "quest_s12_feat_accolade_weaponspecialist_samematch_2",
+      "quest_s12_feat_accolade_weaponspecialist_samematch_3",
+      "quest_s12_feat_accolade_weaponspecialist_samematch_4",
+      "quest_s12_feat_accolade_weaponspecialist_samematch_5",
+      "quest_s12_feat_accolade_weaponspecialist_samematch_6",
+      "quest_s12_feat_accolade_weaponspecialist_samematch_7",
+      "quest_s12_feat_collect_weapon_legendary_oilrig",
+      "quest_s12_feat_destroy_strawman",
+      "quest_s12_feat_fishing_explosives",
+      "quest_s12_feat_fishing_singlematch",
+      "quest_s12_feat_interact_booth",
+      "quest_s12_feat_interact_booth_25",
+      "quest_s12_feat_interact_booth_100",
+      "quest_s12_feat_interact_coolcarpet_buffcat",
+      "quest_s12_feat_interact_passage",
+      "quest_s12_feat_interact_passage_25",
+      "quest_s12_feat_interact_passage_100",
+      "quest_s12_feat_interact_vaultdoor",
+      "quest_s12_feat_interrogate_mang",
+      "quest_s12_feat_interrogate_opponent",
+      "quest_s12_feat_interrogate_opponent10",
+      "quest_s12_feat_kill_gliding",
+      "quest_s12_feat_use_slurpfish_many",
+      "quests_s12_feat_reachlevel_gold_bananaagent",
+      "quests_s12_feat_reachlevel_gold_buffcat",
+      "quests_s12_feat_reachlevel_gold_henchman",
+      "quests_s12_feat_reachlevel_gold_tntina",
+      "quests_s12_feat_reachlevel_gold_midas",
+      "quests_s12_feat_reachlevel_gold_photograph",
+      "quest_s12_feat_accolade_weaponexpert_ar",
+      "quest_s12_feat_accolade_weaponexpert_explosive",
+      "quest_s12_feat_accolade_weaponexpert_pickaxe",
+      "quest_s12_feat_accolade_weaponexpert_pistol",
+      "quest_s12_feat_accolade_weaponexpert_shotgun",
+      "quest_s12_feat_accolade_weaponexpert_smg",
+      "quest_s12_feat_accolade_weaponexpert_sniper",
+      "quest_s12_feat_interact_vaultdoor_25",
+      "quest_s12_feat_interact_vaultdoor_buffcat",
+      "quest_s12_feat_throw_consumable",
+      "quest_s12_feat_emote_tpose_yacht",
+      "quest_s12_feat_kill_yacht_pickaxe",
+      "quest_s12_feat_land_sharkrock",
+      "quest_s12_feat_visit_sharkrock_boat",
+      "quest_s12_feat_kill_swamp_singlematch",
+      "quest_s12_feat_killmang_oilrig",
+      "quest_s12_feat_athenarank_infiltration",
+      "quest_s12_feat_disguise_infiltration",
+      "quest_s12_feat_interact_hoagie",
+      "quest_s12_feat_win_dropzone",
+      "quest_s12_feat_win_dropzone_many",
+      "quest_s12_feat_win_knockout",
+      "quest_s12_feat_win_knockout_many",
+      "quest_s12_feat_blockdamage_unclebrolly",
+      "quest_s12_feat_damage_unclebrolly",
+      "quest_s12_feat_destroy_hoagie_mistybop",
+      "quest_s12_feat_destroy_wall_donut",
+      "quest_s12_feat_emote_donut",
+      "quest_s12_feat_land_jerky",
+      "quest_s12_feat_emote_jerky",
+      "quest_s12_feat_bvg_battle",
+      "quest_s12_feat_bvg_truce",
+      "quest_s12_feat_locationdomination"
+    ]
+  },
+  "ChallengeRewards": {
+    "Quest_S12_Donut_W1_A": {
+      "objectives": [{ "name": "Quest_S12_Donut_W1_A", "count": 1 }]
+    },
+    "Quest_S12_Donut_W1_B": {
+      "objectives": [{ "name": "Quest_S12_Donut_W1_B", "count": 1 }]
+    },
+    "Quest_S12_Donut_W2_A": {
+      "objectives": [{ "name": "Quest_S12_Donut_W2_A", "count": 1 }]
+    },
+    "Quest_S12_Donut_W2_B": {
+      "objectives": [
+        { "name": "Quest_S12_Donut_W2_B_0", "count": 1 },
+        { "name": "Quest_S12_Donut_W2_B_1", "count": 1 },
+        { "name": "Quest_S12_Donut_W2_B_2", "count": 1 }
+      ]
+    },
+    "Quest_S12_Donut_W3_A": {
+      "objectives": [{ "name": "Quest_S12_Donut_W3_A", "count": 1 }]
+    },
+    "Quest_S12_Donut_W3_B": {
+      "objectives": [{ "name": "Quest_S12_Donut_W3_B", "count": 3 }]
+    },
+    "Quest_S12_Donut_W4_A": {
+      "objectives": [
+        { "name": "Quest_S12_Donut_W4_A_0", "count": 1 },
+        { "name": "Quest_S12_Donut_W4_A_1", "count": 1 }
+      ]
+    },
+    "Quest_S12_Donut_W4_B": {
+      "objectives": [{ "name": "Quest_S12_Donut_W4_B", "count": 10000 }]
+    },
+    "Quest_S12_Donut_W5_A": {
+      "objectives": [{ "name": "Quest_S12_Donut_W5_A", "count": 1 }]
+    },
+    "Quest_S12_Donut_W5_B": {
+      "objectives": [
+        { "name": "Quest_S12_Donut_W5_B_0", "count": 1 },
+        { "name": "Quest_S12_Donut_W5_B_1", "count": 1 },
+        { "name": "Quest_S12_Donut_W5_B_2", "count": 1 },
+        { "name": "Quest_S12_Donut_W5_B_3", "count": 1 },
+        { "name": "Quest_S12_Donut_W5_B_4", "count": 1 }
+      ]
+    },
+    "Quest_S12_Donut_W6_A": {
+      "objectives": [{ "name": "Quest_S12_Donut_W6_A", "count": 1 }]
+    },
+    "Quest_S12_Donut_W6_B": {
+      "objectives": [{ "name": "Quest_S12_Donut_W6_B", "count": 3 }]
+    },
+    "Quest_S12_Donut_W7_A": {
+      "objectives": [
+        { "name": "Quest_S12_Donut_W7_A_0", "count": 1 },
+        { "name": "Quest_S12_Donut_W7_A_1", "count": 1 }
+      ]
+    },
+    "Quest_S12_Donut_W7_B": {
+      "objectives": [{ "name": "Quest_S12_Donut_W7_B", "count": 1 }]
+    },
+    "Quest_S12_Donut_W7_A_ToastForInGame": {
+      "objectives": [{ "name": "Quest_S12_Donut_W7_A_ToastForInGame", "count": 2 }]
+    },
+    "Quest_S12_Donut_W7_Dummy": {
+      "objectives": [{ "name": "Quest_S12_Donut_W7_Dummy", "count": 1 }]
+    },
+    "Quest_S12_Donut_W8_A": {
+      "objectives": [{ "name": "Quest_S12_Donut_W8_A", "count": 1 }]
+    },
+    "Quest_S12_Donut_W8_B": {
+      "objectives": [{ "name": "Quest_S12_Donut_W8_B", "count": 1 }]
+    },
+    "Quest_S12_Donut_W9_A": {
+      "objectives": [{ "name": "Quest_S12_Donut_W9_A", "count": 1 }]
+    },
+    "Quest_S12_Donut_W9_B": {
+      "objectives": [{ "name": "Quest_S12_Donut_W9_B", "count": 1 }]
+    },
+    "quest_s12_w1_q01": {
+      "objectives": [{ "name": "quest_s12_w1_q01_obj", "count": 7 }]
+    },
+    "quest_s12_w1_q02": {
+      "objectives": [{ "name": "quest_s12_w1_q02_obj", "count": 2000 }]
+    },
+    "quest_s12_w1_q03": {
+      "objectives": [{ "name": "quest_s12_w1_q03_obj", "count": 3 }]
+    },
+    "quest_s12_w1_q04": {
+      "objectives": [{ "name": "quest_s12_w1_q04_obj", "count": 7 }]
+    },
+    "quest_s12_w1_q05": {
+      "objectives": [{ "name": "quest_s12_w1_q05_obj", "count": 3 }]
+    },
+    "quest_s12_w1_q06": {
+      "objectives": [{ "name": "quest_s12_w1_q06_obj", "count": 10 }]
+    },
+    "quest_s12_w1_q07": {
+      "objectives": [
+        { "name": "quest_s12_w1_q07_obj01", "count": 1 },
+        { "name": "quest_s12_w1_q07_obj02", "count": 1 },
+        { "name": "quest_s12_w1_q07_obj03", "count": 1 },
+        { "name": "quest_s12_w1_q08_obj04", "count": 1 },
+        { "name": "quest_s12_w1_q09_obj05", "count": 1 },
+        { "name": "quest_s12_w1_q07_obj06", "count": 1 },
+        { "name": "quest_s12_w1_q07_obj07", "count": 1 }
+      ]
+    },
+    "quest_s12_w1_q08": {
+      "objectives": [{ "name": "quest_s12_w1_q08_obj", "count": 5 }]
+    },
+    "quest_s12_w1_q09": {
+      "objectives": [
+        { "name": "quest_s12_w1_q09_obj01", "count": 1 },
+        { "name": "quest_s12_w1_q09_obj02", "count": 1 },
+        { "name": "quest_s12_w1_q09_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w1_q10": {
+      "objectives": [{ "name": "quest_s12_w1_q10_obj", "count": 1 }]
+    },
+    "quest_s12_w2_q01": {
+      "objectives": [
+        { "name": "quest_s12_w2_q01_obj01", "count": 1 },
+        { "name": "quest_s12_w2_q01_obj02", "count": 1 },
+        { "name": "quest_s12_w2_q01_obj03", "count": 1 },
+        { "name": "quest_s12_w2_q01_obj04", "count": 1 },
+        { "name": "quest_s12_w2_q01_obj05", "count": 1 }
+      ]
+    },
+    "quest_s12_w2_q02": {
+      "objectives": [{ "name": "quest_s12_w2_q02_obj", "count": 3 }]
+    },
+    "quest_s12_w2_q03": {
+      "objectives": [{ "name": "quest_s12_w2_q03_obj", "count": 3 }]
+    },
+    "quest_s12_w2_q04": {
+      "objectives": [{ "name": "quest_s12_w2_q04_obj", "count": 50 }]
+    },
+    "quest_s12_w2_q05": {
+      "objectives": [{ "name": "quest_s12_w2_q05_obj", "count": 250 }]
+    },
+    "quest_s12_w2_q06": {
+      "objectives": [{ "name": "quest_s12_w2_q06_obj", "count": 3 }]
+    },
+    "quest_s12_w2_q07": {
+      "objectives": [{ "name": "quest_s12_w2_q07_obj", "count": 3 }]
+    },
+    "quest_s12_w2_q08": {
+      "objectives": [{ "name": "quest_s12_w2_q08_obj", "count": 3 }]
+    },
+    "quest_s12_w2_q09": {
+      "objectives": [{ "name": "quest_s12_w2_q09_obj", "count": 200 }]
+    },
+    "quest_s12_w2_q10": {
+      "objectives": [
+        { "name": "quest_s12_w2_q10_obj01", "count": 300 },
+        { "name": "quest_s12_w2_q10_obj02", "count": 400 },
+        { "name": "quest_s12_w2_q10_obj03", "count": 500 }
+      ]
+    },
+    "quest_s12_w3_q01": {
+      "objectives": [{ "name": "quest_s12_w3_q01_obj", "count": 5 }]
+    },
+    "quest_s12_w3_q02": {
+      "objectives": [{ "name": "quest_s12_w3_q02_obj", "count": 10 }]
+    },
+    "quest_s12_w3_q03": {
+      "objectives": [{ "name": "quest_s12_w3_q03_obj", "count": 10 }]
+    },
+    "quest_s12_w3_q04": {
+      "objectives": [{ "name": "quest_s12_w3_q04_obj", "count": 5 }]
+    },
+    "quest_s12_w3_q05": {
+      "objectives": [
+        { "name": "quest_s12_w3_q05_obj01", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj02", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj03", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj04", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj05", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj06", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj07", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj08", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj09", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj10", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj11", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj12", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj13", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj14", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj15", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj16", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj17", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj18", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj19", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj20", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj21", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj22", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj23", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj24", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj25", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj26", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj27", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj28", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj29", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj30", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj31", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj32", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj33", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj34", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj35", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj36", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj37", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj38", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj39", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj40", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj41", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj42", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj43", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj44", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj45", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj46", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj47", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj48", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj49", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj50", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj51", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj52", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj53", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj54", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj55", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj56", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj57", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj58", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj59", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj60", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj61", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj62", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj63", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj64", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj65", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj66", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj67", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj68", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj69", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj70", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj71", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj72", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj73", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj75", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj76", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj77", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj78", "count": 1 },
+        { "name": "quest_s12_w3_q05_obj79", "count": 1 }
+      ]
+    },
+    "quest_s12_w3_q06": {
+      "objectives": [{ "name": "quest_s12_w3_q06_obj", "count": 3 }]
+    },
+    "quest_s12_w3_q07": {
+      "objectives": [{ "name": "quest_s12_w3_q07_obj", "count": 500 }]
+    },
+    "quest_s12_w3_q08": {
+      "objectives": [
+        { "name": "quest_s12_w4_q07_obj01", "count": 1 },
+        { "name": "quest_s12_w4_q07_obj02", "count": 1 },
+        { "name": "quest_s12_w4_q07_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w3_q09": {
+      "objectives": [{ "name": "quest_s12_w3_q09_obj", "count": 5 }]
+    },
+    "quest_s12_w3_q10": {
+      "objectives": [{ "name": "quest_s12_w3_q10_obj", "count": 2 }]
+    },
+    "quest_s12_w4_q01": {
+      "objectives": [{ "name": "quest_s12_w4_q01_obj", "count": 10 }]
+    },
+    "quest_s12_w4_q02": {
+      "objectives": [{ "name": "quest_s12_w4_q02_obj", "count": 20 }]
+    },
+    "quest_s12_w4_q03": {
+      "objectives": [{ "name": "quest_s12_w4_q03_obj", "count": 3 }]
+    },
+    "quest_s12_w4_q04": {
+      "objectives": [{ "name": "quest_s12_w4_q04_obj", "count": 5 }]
+    },
+    "quest_s12_w4_q05": {
+      "objectives": [
+        { "name": "quest_s12_w4_q05_obj01", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj02", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj03", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj04", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj05", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj06", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj07", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj08", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj09", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj10", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj11", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj12", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj13", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj14", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj15", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj16", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj17", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj18", "count": 1 },
+        { "name": "quest_s12_w4_q05_obj19", "count": 1 }
+      ]
+    },
+    "quest_s12_w4_q06": {
+      "objectives": [{ "name": "quest_s12_w4_q06_obj", "count": 5 }]
+    },
+    "quest_s12_w4_q07": {
+      "objectives": [{ "name": "quest_s12_w4_q07_obj", "count": 200 }]
+    },
+    "quest_s12_w4_q08": {
+      "objectives": [{ "name": "quest_s12_w4_q08_obj", "count": 3 }]
+    },
+    "quest_s12_w4_q09": {
+      "objectives": [
+        { "name": "quest_s12_w4_q09_obj01", "count": 1 },
+        { "name": "quest_s12_w4_q09_obj02", "count": 1 },
+        { "name": "quest_s12_w4_q09_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w4_q10": {
+      "objectives": [
+        { "name": "quest_s12_w4_q10_obj01", "count": 1 },
+        { "name": "quest_s12_w4_q10_obj02", "count": 1 },
+        { "name": "quest_s12_w4_q10_obj03", "count": 1 },
+        { "name": "quest_s12_w4_q10_obj04", "count": 1 },
+        { "name": "quest_s12_w4_q10_obj05", "count": 1 },
+        { "name": "quest_s12_w4_q10_obj06", "count": 1 }
+      ]
+    },
+    "quest_s12_w5_q01": {
+      "objectives": [{ "name": "quest_s12_w5_q01_obj", "count": 10 }]
+    },
+    "quest_s12_w5_q02": {
+      "objectives": [{ "name": "quest_s12_w5_q02_obj", "count": 5 }]
+    },
+    "quest_s12_w5_q03": {
+      "objectives": [{ "name": "quest_s12_w5_q03_obj", "count": 400 }]
+    },
+    "quest_s12_w5_q04": {
+      "objectives": [{ "name": "quest_s12_w5_q04_obj", "count": 200 }]
+    },
+    "quest_s12_w5_q05": {
+      "objectives": [{ "name": "quest_s12_w5_q05_obj", "count": 9 }]
+    },
+    "quest_s12_w5_q06": {
+      "objectives": [{ "name": "quest_s12_w5_q06_obj", "count": 100 }]
+    },
+    "quest_s12_w5_q07": {
+      "objectives": [
+        { "name": "quest_s12_w5_q07_obj01", "count": 1 },
+        { "name": "quest_s12_w5_q07_obj02", "count": 1 },
+        { "name": "quest_s12_w5_q07_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w5_q08": {
+      "objectives": [{ "name": "quest_s12_w5_q08_obj", "count": 100 }]
+    },
+    "quest_s12_w5_q09": {
+      "objectives": [{ "name": "quest_s12_w5_q09_obj", "count": 400 }]
+    },
+    "quest_s12_w5_q10": {
+      "objectives": [
+        { "name": "quest_s12_w6_q09_obj01", "count": 1 },
+        { "name": "quest_s12_w6_q09_obj02", "count": 1 },
+        { "name": "quest_s12_w6_q09_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w6_q01": {
+      "objectives": [{ "name": "quest_s12_w6_q01_obj", "count": 10 }]
+    },
+    "quest_s12_w6_q02": {
+      "objectives": [{ "name": "quest_s12_w6_q02_obj", "count": 1000 }]
+    },
+    "quest_s12_w6_q03": {
+      "objectives": [{ "name": "quest_s12_w6_q03_obj", "count": 10 }]
+    },
+    "quest_s12_w6_q04": {
+      "objectives": [{ "name": "quest_s12_w6_q04_obj", "count": 200 }]
+    },
+    "quest_s12_w6_q05": {
+      "objectives": [
+        { "name": "quest_s12_w6_q05_obj01", "count": 1 },
+        { "name": "quest_s12_w6_q05_obj02", "count": 1 },
+        { "name": "quest_s12_w6_q05_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w6_q06": {
+      "objectives": [{ "name": "quest_s12_w6_q06_obj", "count": 5 }]
+    },
+    "quest_s12_w6_q07": {
+      "objectives": [{ "name": "quest_s12_w6_q07_obj", "count": 3 }]
+    },
+    "quest_s12_w6_q08": {
+      "objectives": [{ "name": "quest_s12_w6_q08_obj", "count": 100 }]
+    },
+    "quest_s12_w6_q09": {
+      "objectives": [
+        { "name": "quest_s12_w5_q10_obj01", "count": 1 },
+        { "name": "quest_s12_w5_q10_obj02", "count": 1 },
+        { "name": "quest_s12_w5_q10_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w6_q10": {
+      "objectives": [
+        { "name": "quest_s12_w6_q10_obj01", "count": 1 },
+        { "name": "quest_s12_w6_q10_obj02", "count": 1 },
+        { "name": "quest_s12_w6_q10_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w7_q01": {
+      "objectives": [{ "name": "quest_s12_w7_q01_obj", "count": 7 }]
+    },
+    "quest_s12_w7_q02": {
+      "objectives": [{ "name": "quest_s12_w7_q02_obj", "count": 400 }]
+    },
+    "quest_s12_w7_q03": {
+      "objectives": [
+        { "name": "quest_s12_w7_q03_obj01", "count": 1 },
+        { "name": "quest_s12_w7_q03_obj02", "count": 1 },
+        { "name": "quest_s12_w7_q03_obj03", "count": 1 }
+      ]
+    },
+    "Quest_s12_w7_q04_HarvestAfterLanding": {
+      "objectives": [
+        { "name": "w7_q4_harvest_afterjumping_wood", "count": 75 },
+        { "name": "w7_q4_harvest_afterjumping_stone", "count": 75 },
+        { "name": "w7_q4_harvest_afterjumping_metal", "count": 75 }
+      ]
+    },
+    "quest_s12_w7_q05": {
+      "objectives": [{ "name": "quest_s12_w7_q05_obj", "count": 1 }]
+    },
+    "quest_s12_w7_q06": {
+      "objectives": [{ "name": "quest_s12_w7_q06_obj", "count": 10 }]
+    },
+    "quest_s12_w7_q07": {
+      "objectives": [
+        { "name": "quest_s12_w7_q07_obj01", "count": 1 },
+        { "name": "quest_s12_w7_q07_obj02", "count": 1 },
+        { "name": "quest_s12_w7_q07_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w7_q08": {
+      "objectives": [{ "name": "quest_s12_w7_q08_obj", "count": 1 }]
+    },
+    "quest_s12_w7_q09": {
+      "objectives": [
+        { "name": "quest_s12_w7_q09_obj01", "count": 1 },
+        { "name": "quest_s12_w7_q09_obj02", "count": 1 },
+        { "name": "quest_s12_w7_q09_obj03", "count": 1 },
+        { "name": "quest_s12_w7_q09_obj04", "count": 1 },
+        { "name": "quest_s12_w7_q09_obj05", "count": 1 }
+      ]
+    },
+    "quest_s12_w7_q10": {
+      "objectives": [{ "name": "quest_s12_w7_q10_obj", "count": 1 }]
+    },
+    "quest_s12_w8_q01": {
+      "objectives": [{ "name": "quest_s12_w8_q01_obj", "count": 10 }]
+    },
+    "quest_s12_w8_q02": {
+      "objectives": [{ "name": "quest_s12_w8_q02_obj", "count": 3 }]
+    },
+    "quest_s12_w8_q03": {
+      "objectives": [{ "name": "quest_s12_w8_q03_obj", "count": 3 }]
+    },
+    "quest_s12_w8_q04": {
+      "objectives": [
+        { "name": "quest_s12_w8_q04_obj01", "count": 1 },
+        { "name": "quest_s12_w8_q04_obj02", "count": 1 },
+        { "name": "quest_s12_w8_q04_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w8_q05": {
+      "objectives": [
+        { "name": "quest_s12_w8_q05_obj01", "count": 1 },
+        { "name": "quest_s12_w8_q05_obj02", "count": 1 },
+        { "name": "quest_s12_w8_q05_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w8_q06": {
+      "objectives": [
+        { "name": "quest_s12_w8_q06_obj01", "count": 1 },
+        { "name": "quest_s12_w8_q06_obj02", "count": 1 }
+      ]
+    },
+    "quest_s12_w8_q07": {
+      "objectives": [{ "name": "quest_s12_w8_q07_obj", "count": 10 }]
+    },
+    "quest_s12_w8_q08": {
+      "objectives": [
+        { "name": "quest_s12_w8_q08_obj01", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj02", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj03", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj04", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj05", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj06", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj07", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj08", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj09", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj10", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj11", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj12", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj13", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj14", "count": 1 },
+        { "name": "quest_s12_w8_q08_obj15", "count": 1 }
+      ]
+    },
+    "quest_s12_w8_q09": {
+      "objectives": [{ "name": "quest_s12_w8_q09_obj", "count": 200 }]
+    },
+    "quest_s12_w8_q10": {
+      "objectives": [{ "name": "quest_s12_w8_q10_obj", "count": 3 }]
+    },
+    "quest_s12_w9_q01": {
+      "objectives": [
+        { "name": "quest_s12_w9_q01_obj01", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj02", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj03", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj04", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj05", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj06", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj07", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj08", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj09", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj10", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj11", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj12", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj13", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj14", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj15", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj16", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj17", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj18", "count": 1 },
+        { "name": "quest_s12_w9_q01_obj19", "count": 1 }
+      ]
+    },
+    "quest_s12_w9_q02": {
+      "objectives": [{ "name": "quest_s12_w9_q02_obj", "count": 300 }]
+    },
+    "quest_s12_w9_q03": {
+      "objectives": [{ "name": "quest_s12_w9_q03_obj", "count": 1 }]
+    },
+    "quest_s12_w9_q04": {
+      "objectives": [{ "name": "quest_s12_w9_q04_obj", "count": 1 }]
+    },
+    "quest_s12_w9_q05": {
+      "objectives": [{ "name": "quest_s12_w9_q05_obj", "count": 100 }]
+    },
+    "quest_s12_w9_q06": {
+      "objectives": [{ "name": "quest_s12_w9_q06_obj", "count": 5 }]
+    },
+    "quest_s12_w9_q07": {
+      "objectives": [{ "name": "quest_s12_w9_q07_obj", "count": 100 }]
+    },
+    "quest_s12_w9_q08": {
+      "objectives": [{ "name": "quest_s12_w9_q08_obj", "count": 1 }]
+    },
+    "quest_s12_w9_q09": {
+      "objectives": [{ "name": "quest_s12_w9_q09_obj", "count": 10 }]
+    },
+    "quest_s12_w9_q10": {
+      "objectives": [{ "name": "quest_s12_w9_q10_obj", "count": 3 }]
+    },
+    "quest_s12_w10_q01": {
+      "objectives": [
+        { "name": "quest_s12_w10_q01_obj01", "count": 1 },
+        { "name": "quest_s12_w10_q01_obj02", "count": 1 },
+        { "name": "quest_s12_w10_q01_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w10_q02": {
+      "objectives": [{ "name": "quest_s12_w10_q02_obj", "count": 7 }]
+    },
+    "quest_s12_w10_q03": {
+      "objectives": [{ "name": "quest_s12_w10_q03_obj", "count": 3 }]
+    },
+    "quest_s12_w10_q04": {
+      "objectives": [{ "name": "quest_s12_w10_q04_obj", "count": 200 }]
+    },
+    "quest_s12_w10_q05": {
+      "objectives": [{ "name": "quest_s12_w10_q05_obj", "count": 3 }]
+    },
+    "quest_s12_w10_q06": {
+      "objectives": [
+        { "name": "quest_s12_w10_q06_obj01", "count": 1 },
+        { "name": "quest_s12_w10_q06_obj02", "count": 1 },
+        { "name": "quest_s12_w10_q06_obj03", "count": 1 },
+        { "name": "quest_s12_w10_q06_obj04", "count": 1 },
+        { "name": "quest_s12_w10_q06_obj05", "count": 1 }
+      ]
+    },
+    "quest_s12_w10_q07": {
+      "objectives": [{ "name": "quest_s12_w10_q07_obj", "count": 3 }]
+    },
+    "quest_s12_w10_q08": {
+      "objectives": [
+        { "name": "quest_s12_w10_q08_obj01", "count": 1 },
+        { "name": "quest_s12_w10_q08_obj02", "count": 1 }
+      ]
+    },
+    "quest_s12_w10_q09": {
+      "objectives": [
+        { "name": "quest_s12_w10_q09_obj01", "count": 1 },
+        { "name": "quest_s12_w10_q09_obj02", "count": 1 },
+        { "name": "quest_s12_w10_q09_obj03", "count": 1 }
+      ]
+    },
+    "quest_s12_w10_q10": {
+      "objectives": [{ "name": "quest_s12_w10_q10_obj", "count": 100 }]
+    },
+    "quest_AB_photographer_alter": {
+      "objectives": [{ "name": "quest_AB_photographer_alter_obj", "count": 1 }]
+    },
+    "quest_AB_photographer_ego": {
+      "objectives": [{ "name": "quest_AB_photographer_ego_obj", "count": 1 }]
+    },
+    "quest_ab_buffcat_alter": {
+      "objectives": [{ "name": "quest_ab_buffcat_alter_obj", "count": 10 }]
+    },
+    "quest_ab_buffcat_ego": {
+      "objectives": [{ "name": "quest_ab_buffcat_ego_obj", "count": 10 }]
+    },
+    "quest_ab_midas_alter": {
+      "objectives": [{ "name": "quest_ab_midas_alter_obj", "count": 2 }]
+    },
+    "quest_ab_midas_ego": {
+      "objectives": [{ "name": "quest_ab_midas_ego_obj", "count": 2 }]
+    },
+    "quest_AB_skulldude_alter": {
+      "objectives": [{ "name": "quest_AB_skulldude_alter_obj", "count": 1 }]
+    },
+    "quest_AB_skulldude_ego": {
+      "objectives": [{ "name": "quest_AB_skulldude_ego_obj", "count": 1 }]
+    },
+    "AB_tntina_alter": {
+      "objectives": [{ "name": "AB_tntina_alter_obj", "count": 2 }]
+    },
+    "AB_tntina_ego": {
+      "objectives": [{ "name": "AB_tntina_ego_obj", "count": 2 }]
+    },
+    "quest_s12_w7_q04_HarvestAfterLanding": {
+      "objectives": [
+        { "name": "w7_q4_harvest_afterjumping_wood", "count": 75 },
+        { "name": "w7_q4_harvest_afterjumping_stone", "count": 75 },
+        { "name": "w7_q4_harvest_afterjumping_metal", "count": 75 }
+      ]
+    }
+  }
+}

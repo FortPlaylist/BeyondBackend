@@ -1,0 +1,12 @@
+{
+  "prettier.semi": true,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 100,
+  "prettier.trailingComma": "all",
+  "prettier.jsxSingleQuote": true,
+  "prettier.arrowParens": "always",
+  "prettier.endOfLine": "auto",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay"
+}

@@ -1,0 +1,688 @@
+{
+  "ChallengeBundleSchedules": {
+    "Season12_Mission_Schedule": [
+      "MissionBundle_S12_Week_01",
+      "MissionBundle_S12_Week_02",
+      "MissionBundle_S12_Week_03",
+      "MissionBundle_S12_Week_04",
+      "MissionBundle_S12_Week_05"
+    ],
+    "Season12_Feat_BundleSchedule": ["Season12_Feat_BundleSchedule"],
+    "Season12_Schedule_Event_CoinCollect": [
+      "QuestBundle_Event_S12_CoinCollectXP_Week_01",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_02",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_03",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_04",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_05",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_06",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_07",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_08",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_09",
+      "QuestBundle_Event_S12_CoinCollectXP_Week_10"
+    ],
+    "Season12_Donut_Schedule": [
+      "QuestBundle_S12_Donut_W1",
+      "QuestBundle_S12_Donut_W2",
+      "QuestBundle_S12_Donut_W3",
+      "QuestBundle_S12_Donut_W4",
+      "QuestBundle_S12_Donut_W5",
+      "QuestBundle_S12_Donut_W6",
+      "QuestBundle_S12_Donut_W7",
+      "QuestBundle_S12_Donut_W8",
+      "QuestBundle_S12_Donut_W9"
+    ],
+
+    "Season12_ABChallenges_Schedule": [
+      "MissionBundle_S12_AB_AdventureGirl",
+      "MissionBundle_S12_AB_Meowscle",
+      "MissionBundle_S12_AB_Midas",
+      "MissionBundle_S12_AB_Skulldude",
+      "MissionBundle_S12_AB_TNTina"
+    ]
+  },
+  "ChallengeBundle": {
+    "MissionBundle_S12_AB_AdventureGirl": {
+      "Rewards": [
+        "CosmeticVariantToken:VTID_507_HenchmanTough_StyleC",
+        "CosmeticVariantToken:VTID_509_HenchmanTough_Backbling_StyleC",
+        "CosmeticVariantToken:VTID_547_HenchmanMaleGlider_StyleC",
+        "CosmeticVariantToken:VTID_506_HenchmanTough_StyleB",
+        "CosmeticVariantToken:VTID_508_HenchmanTough_Backbling_StyleB",
+        "CosmeticVariantToken:VTID_546_HenchmanMaleGlider_StyleB"
+      ],
+      "objectives": [
+        {
+          "backendName": "quest_AB_skulldude_alter_obj",
+          "count": 1
+        },
+        {
+          "backendName": "quest_AB_skulldude_ego_obj",
+          "count": 1
+        }
+      ]
+    },
+    "MissionBundle_S12_AB_Meowscle": {
+      "Rewards": [
+        "CosmeticVariantToken:VTID_507_HenchmanTough_StyleC",
+        "CosmeticVariantToken:VTID_509_HenchmanTough_Backbling_StyleC",
+        "CosmeticVariantToken:VTID_547_HenchmanMaleGlider_StyleC",
+        "CosmeticVariantToken:VTID_506_HenchmanTough_StyleB",
+        "CosmeticVariantToken:VTID_508_HenchmanTough_Backbling_StyleB"
+      ],
+      "objectives": [
+        {
+          "backendName": "quest_AB_skulldude_alter_obj",
+          "count": 1
+        },
+        {
+          "backendName": "quest_AB_skulldude_ego_obj",
+          "count": 1
+        }
+      ]
+    },
+    "MissionBundle_S12_AB_Midas": {
+      "Rewards": [
+        "CosmeticVariantToken:VTID_507_HenchmanTough_StyleC",
+        "CosmeticVariantToken:VTID_509_HenchmanTough_Backbling_StyleC",
+        "CosmeticVariantToken:VTID_547_HenchmanMaleGlider_StyleC",
+        "CosmeticVariantToken:VTID_506_HenchmanTough_StyleB",
+        "CosmeticVariantToken:VTID_546_HenchmanMaleGlider_StyleB"
+      ],
+      "objectives": [
+        {
+          "backendName": "quest_AB_skulldude_alter_obj",
+          "count": 1
+        },
+        {
+          "backendName": "quest_AB_skulldude_ego_obj",
+          "count": 1
+        }
+      ]
+    },
+    "MissionBundle_S12_AB_Skulldude": {
+      "Rewards": [
+        "CosmeticVariantToken:VTID_507_HenchmanTough_StyleC",
+        "CosmeticVariantToken:VTID_509_HenchmanTough_Backbling_StyleC",
+        "CosmeticVariantToken:VTID_547_HenchmanMaleGlider_StyleC",
+        "CosmeticVariantToken:VTID_506_HenchmanTough_StyleB",
+        "CosmeticVariantToken:VTID_508_HenchmanTough_Backbling_StyleB",
+        "CosmeticVariantToken:VTID_546_HenchmanMaleGlider_StyleB"
+      ],
+      "objectives": [
+        {
+          "backendName": "quest_AB_skulldude_alter_obj",
+          "count": 1
+        },
+        {
+          "backendName": "quest_AB_skulldude_ego_obj",
+          "count": 1
+        }
+      ]
+    },
+    "MissionBundle_S12_AB_TNTina": {
+      "Rewards": [
+        "CosmeticVariantToken:VTID_499_TNTina_StyleC",
+        "CosmeticVariantToken:VTID_501_TNTina_Backbling_StyleC",
+        "CosmeticVariantToken:VTID_545_TNTinaFemalePickaxe_StyleC",
+        "CosmeticVariantToken:VTID_551_TNTinaFemaleGlider_StyleC",
+        "CosmeticVariantToken:VTID_498_TNTina_StyleB",
+        "CosmeticVariantToken:VTID_500_TNTina_Backbling_StyleB",
+        "CosmeticVariantToken:VTID_544_TNTinaFemalePickaxe_StyleB",
+        "CosmeticVariantToken:VTID_550_TNTinaFemaleGlider_StyleB"
+      ],
+      "objectives": [
+        {
+          "backendName": "AB_tntina_alter_obj",
+          "count": 2
+        },
+        {
+          "backendName": "AB_tntina_ego_obj",
+          "count": 2
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W1": {
+      "Rewards": ["Quest:Quest_S12_Donut_W1_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W1_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W2": {
+      "Rewards": ["Quest:Quest_S12_Donut_W2_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W2_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W3": {
+      "Rewards": ["Quest:Quest_S12_Donut_W3_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W3_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W4": {
+      "Rewards": ["Quest:Quest_S12_Donut_W4_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W4_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W5": {
+      "Rewards": ["Quest:Quest_S12_Donut_W5_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W5_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W6": {
+      "Rewards": ["Quest:Quest_S12_Donut_W6_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W6_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W7": {
+      "Rewards": ["Quest:Quest_S12_Donut_W7_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W7_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W8": {
+      "Rewards": ["Quest:Quest_S12_Donut_W8_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W8_A",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_S12_Donut_W9": {
+      "Rewards": ["Quest:Quest_S12_Donut_W9_B"],
+      "objectives": [
+        {
+          "backendName": "Quest_S12_Donut_W9_A",
+          "count": 1
+        }
+      ]
+    },
+    "MissionBundle_S12_Superlevel": {
+      "Rewards": [
+        "CosmeticVariantToken:VTID_566_BananaAgent_StyleD",
+        "CosmeticVariantToken:VTID_563_BuffCat_StyleD",
+        "CosmeticVariantToken:VTID_570_BuffCat_Backbling_StyleD",
+        "CosmeticVariantToken:VTID_565_CatBurglar_StyleD",
+        "CosmeticVariantToken:VTID_572_CatBurglar_Backbling_StyleD",
+        "CosmeticVariantToken:VTID_564_Photographer_StyleD",
+        "CosmeticVariantToken:VTID_569_Photographer_Backbling_StyleD",
+        "CosmeticVariantToken:VTID_562_HenchmanTough_StyleD",
+        "CosmeticVariantToken;VTID_571_HenchmanTough_Backbling_StyleD",
+        "CosmeticVariantToken:VTID_573_TNTina_StyleD",
+        "CosmeticVariantToken:VTID_574_TNTina_Backbling_StyleD"
+      ],
+      "objectives": [
+        {
+          "backendName": "quest_style_superlevel_banana_agent_obj",
+          "count": 300
+        },
+        {
+          "backendName": "quest_style_superlevel_midas_obj",
+          "count": 100
+        },
+        {
+          "backendName": "quest_style_superlevel_photographer_obj",
+          "count": 260
+        },
+        {
+          "backendName": "quest_style_superlevel_skulldude_obj",
+          "count": 140
+        },
+        {
+          "backendName": "quest_style_superlevel_tntina_obj",
+          "count": 220
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_01": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w1_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w1_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_02": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w2_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w2_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_03": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w3_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w3_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_04": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w4_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w4_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_05": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w5_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w5_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_06": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w6_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w6_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_07": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w7_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w7_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_08": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w8_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w8_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_09": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w9_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w9_obj",
+          "count": 1
+        }
+      ]
+    },
+    "QuestBundle_Event_S12_CoinCollectXP_Week_10": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_xpcoins_blue_w10_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_xpcoins_gold_w10_obj",
+          "count": 1
+        }
+      ]
+    },
+    "Season12_Feat_Bundle": {
+      "objectives": [
+        {
+          "backendName": "Feat_S12_BandageInStorm",
+          "count": 1
+        }
+      ]
+    },
+    "MissionBundle_S12_Week_01": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_w1_q01_obj",
+          "count": 7
+        },
+        {
+          "backendName": "quest_s12_w1_q02_obj",
+          "count": 2000
+        },
+        {
+          "backendName": "quest_s12_w1_q03_obj",
+          "count": 3
+        },
+        {
+          "backendName": "quest_s12_w1_q04_obj",
+          "count": 7
+        },
+        {
+          "backendName": "quest_s12_w1_q05_obj",
+          "count": 3
+        },
+        {
+          "backendName": "quest_s12_w1_q06_obj",
+          "count": 10
+        },
+        {
+          "backendName": "quest_s12_w1_q07_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q07_obj02",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q07_obj03",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q08_obj04",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q09_obj05",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q07_obj06",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q07_obj07",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q09_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q09_obj02",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q09_obj03",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w1_q10_obj",
+          "count": 1
+        }
+      ]
+    },
+    "MissionBundle_S12_Week_02": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_w2_q01_obj01",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w2_q01_obj02",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w2_q01_obj03",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w2_q01_obj04",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w2_q01_obj05",
+          "count": 1
+        },
+        {
+          "backendName": "quest_s12_w2_q02_obj",
+          "count": 3
+        },
+        {
+          "backendName": "quest_s12_w2_q03_obj",
+          "count": 3
+        },
+        {
+          "backendName": "quest_s12_w2_q04_obj",
+          "count": 50
+        },
+        {
+          "backendName": "quest_s12_w2_q05_obj",
+          "count": 250
+        },
+        {
+          "backendName": "quest_s12_w2_q06_obj",
+          "count": 3
+        },
+        {
+          "backendName": "quest_s12_w2_q07_obj",
+          "count": 3
+        },
+        {
+          "backendName": "quest_s12_w2_q08_obj",
+          "count": 3
+        },
+        {
+          "backendName": "quest_s12_w2_q09_obj",
+          "count": 200
+        },
+        {
+          "backendName": "quest_s12_w2_q10_obj01",
+          "count": 300
+        },
+        {
+          "backendName": "quest_s12_w2_q10_obj02",
+          "count": 400
+        },
+        {
+          "backendName": "quest_s12_w2_q10_obj03",
+          "count": 500
+        }
+      ]
+    },
+    "MissionBundle_S12_Week_03": {
+      "objectives": [
+        {
+          "backendName": "quest_s12_w3_q01",
+          "count": 5
+        },
+        {
+          "backendName": "quest_s12_w3_q02_obj",
+          "count": 10
+        },
+        {
+          "backendName": "quest_s12_w3_q03_obj",
+          "count": 10
+        },
+        {
+          "backendName": "quest_s12_w3_q04_obj",
+          "count": 5
+        },
+        { "backendName": "quest_s12_w3_q05_obj01", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj02", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj03", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj04", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj05", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj06", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj07", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj08", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj09", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj10", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj11", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj12", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj13", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj14", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj15", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj16", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj17", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj18", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj19", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj20", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj21", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj22", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj23", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj24", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj25", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj26", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj27", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj28", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj29", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj30", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj31", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj32", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj33", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj34", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj35", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj36", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj37", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj38", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj39", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj40", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj41", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj42", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj43", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj44", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj45", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj46", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj47", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj48", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj49", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj50", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj51", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj52", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj53", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj54", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj55", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj56", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj57", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj58", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj59", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj60", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj61", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj62", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj63", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj64", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj65", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj66", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj67", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj68", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj69", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj70", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj71", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj72", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj73", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj75", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj76", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj77", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj78", "count": 1 },
+        { "backendName": "quest_s12_w3_q05_obj79", "count": 1 },
+        { "backendName": "quest_s12_w3_q06_obj", "count": 3 },
+        { "backendName": "quest_s12_w3_q07_obj", "count": 500 },
+        { "backendName": "quest_s12_w4_q07_obj01", "count": 1 },
+        { "backendName": "quest_s12_w4_q07_obj02", "count": 1 },
+        { "backendName": "quest_s12_w4_q07_obj03", "count": 1 },
+        { "backendName": "quest_s12_w3_q09_obj", "count": 5 },
+        { "backendName": "quest_s12_w3_q10_obj", "count": 2 }
+      ]
+    },
+    "MissionBundle_S12_Week_04": {
+      "objectives": [
+        { "backendName": "quest_s12_w4_q01_obj", "count": 10 },
+        { "backendName": "quest_s12_w4_q02_obj", "count": 20 },
+        { "backendName": "quest_s12_w4_q03_obj", "count": 3 },
+        { "backendName": "quest_s12_w4_q04_obj", "count": 5 },
+        { "backendName": "quest_s12_w4_q05_obj01", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj02", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj03", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj04", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj05", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj06", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj07", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj08", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj09", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj10", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj11", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj12", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj13", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj14", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj15", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj16", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj17", "count": 1 },
+        { "backendName": "quest_s12_w4_q05_obj18", "count": 1 },
+        { "backendName": "quest_s12_w4_q06_obj", "count": 5 },
+        { "backendName": "quest_s12_w4_q07_obj", "count": 200 },
+        { "backendName": "quest_s12_w4_q08_obj", "count": 3 },
+        { "backendName": "quest_s12_w4_q09_obj01", "count": 1 },
+        { "backendName": "quest_s12_w4_q09_obj02", "count": 1 },
+        { "backendName": "quest_s12_w4_q09_obj03", "count": 1 },
+        { "backendName": "quest_s12_w4_q10_obj01", "count": 1 },
+        { "backendName": "quest_s12_w4_q10_obj02", "count": 1 },
+        { "backendName": "quest_s12_w4_q10_obj03", "count": 1 },
+        { "backendName": "quest_s12_w4_q10_obj04", "count": 1 },
+        { "backendName": "quest_s12_w4_q10_obj05", "count": 1 },
+        { "backendName": "quest_s12_w4_q10_obj06", "count": 1 }
+      ]
+    },
+    "MissionBundle_S12_Week_05": {
+      "objectives": [
+        { "backendName": "quest_s12_w5_q01_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q02_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q03_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q04_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q05_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q06_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q07_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q08_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q09_obj", "count": 1 },
+        { "backendName": "quest_s12_w5_q10_obj", "count": 1 }
+      ]
+    }
+  }
+}

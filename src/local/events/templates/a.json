@@ -1,0 +1,525 @@
+[
+  
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division1_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 50
+          },
+          {
+            "keyValue": 3,
+            "multiplicative": false,
+            "pointsEarned": 15
+          },
+          {
+            "keyValue": 7,
+            "multiplicative": false,
+            "pointsEarned": 20
+          },
+          {
+            "keyValue": 12,
+            "multiplicative": false,
+            "pointsEarned": 10
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division2_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division3_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division4_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gtw",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": -2
+          }
+        ],
+        "trackedStat": "MATCH_PLAYED_STAT"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division5_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gtw",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": -4
+          }
+        ],
+        "trackedStat": "MATCH_PLAYED_STAT"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division6_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gtw",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": -6
+          }
+        ],
+        "trackedStat": "MATCH_PLAYED_STAT"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division7_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 3
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 15,
+            "multiplicative": false,
+            "pointsEarned": 2
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 3
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gtw",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": -8
+          }
+        ],
+        "trackedStat": "MATCH_PLAYED_STAT"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 1
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division8_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "gtw",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": -70
+          }
+        ],
+        "trackedStat": "MATCH_PLAYED_STAT"
+      },
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 60
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 30
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 60
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 20
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division9_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "gtw",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": -70
+          }
+        ],
+        "trackedStat": "MATCH_PLAYED_STAT"
+      },
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 60
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 30
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 60
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 20
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  },
+  {
+    "eventTemplateId": "eventTemplate_Arena_S10_Division10_Duos",
+    "gameId": "Fortnite",
+    "matchcAP": 0,
+    "persistentScoreId": "Hype",
+    "playlistId": "Playlist_ShowdownAlt_Duos",
+    "scoringRules": [
+      {
+        "matchRule": "gtw",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": -80
+          }
+        ],
+        "trackedStat": "MATCH_PLAYED_STAT"
+      },
+      {
+        "matchRule": "lte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": false,
+            "pointsEarned": 60
+          },
+          {
+            "keyValue": 5,
+            "multiplicative": false,
+            "pointsEarned": 30
+          },
+          {
+            "keyValue": 25,
+            "multiplicative": false,
+            "pointsEarned": 60
+          }
+        ],
+        "trackedStat": "PLACEMENT_STAT_INDEX"
+      },
+      {
+        "matchRule": "gte",
+        "rewardTiers": [
+          {
+            "keyValue": 1,
+            "multiplicative": true,
+            "pointsEarned": 20
+          }
+        ],
+        "trackedStat": "TEAM_ELIMS_STAT_INDEX"
+      }
+    ]
+  }
+]
